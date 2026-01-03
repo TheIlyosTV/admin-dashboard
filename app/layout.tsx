@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Admin Dashboard",
     description: "Modern Admin Dashboard",
-    url: "https://admin-dashboard.vercel.app",
+    url: "https://admin-dashboaardd.vercel.app",
     siteName: "admin-dashboard",
     images: [
       {
